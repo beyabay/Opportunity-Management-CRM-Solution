@@ -1,4 +1,4 @@
-# Opportunity-Management-CRM-Solution
+# Sharepoint Opportunity Management (CRM Solution)
 
 ## Overview
 This document provides a detailed guide on the Opportunity Management CRM Solution built using SharePoint and Power Automate. The solution is designed to manage opportunities efficiently through a series of automated workflows. The process is divided into multiple stages, each involving different teams and flows that work together to manage the entire lifecycle of an opportunity, from initial client contact to opportunity closure.
