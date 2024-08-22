@@ -1,7 +1,18 @@
 # Sharepoint Opportunity Management (CRM Solution)
+# Opportunity-Management-CRM-Solution
 
 ## Overview
 This document provides a detailed guide on the Opportunity Management CRM Solution built using SharePoint and Power Automate. The solution is designed to manage opportunities efficiently through a series of automated workflows. The process is divided into multiple stages, each involving different teams and flows that work together to manage the entire lifecycle of an opportunity, from initial client contact to opportunity closure.
+
+## Index
+
+1. [Stage 1: Inbound Process](#stage-1-inbound-process)
+2. [Stage 2: Opportunity Evaluation](#stage-2-opportunity-evaluation)
+3. [Stage 3: Opportunity Creation and Assignment](#stage-3-opportunity-creation-and-assignment)
+4. [Stage 4: Opportunity Tracking and Follow-Up](#stage-4-opportunity-tracking-and-follow-up)
+5. [Stage 5: Proposals System](#stage-5-proposals-system)
+6. [Stage 6: Opportunity Closure](#stage-6-opportunity-closure)
+7. [Maintenance and Updates](#maintenance-and-updates)
 
 ## Stage 1: Inbound Process
 
